@@ -1,0 +1,507 @@
+﻿NAME,TYPE,COUNTY,PROVINCE,REGION,Longitude,Latitude,DESCRIPTIO,BUFF_DIST,ORIG_FID
+Maghery Pier,PIER,DONEGAL,ULSTER,North-West,-8.4334614,54.93548114,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,298
+Narin Pier,PIER,DONEGAL,ULSTER,North-West,-8.46387593,54.84237791,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,295
+Gweebarra Pier,PIER,DONEGAL,ULSTER,North-West,-8.32970833,54.83916525,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,296
+Loughros Point Slip,SLIPWAY,DONEGAL,ULSTER,North-West,-8.5405949,54.78208328,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,293
+Rossbeg Pier,PIER,DONEGAL,ULSTER,North-West,-8.52507936,54.82062137,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,294
+Malin Beg Pier,PIER,DONEGAL,ULSTER,North-West,-8.78529547,54.66500339,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,291
+Port Pier,PIER,DONEGAL,ULSTER,North-West,-8.70117474,54.74703167,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,292
+Teelin,PIER,DONEGAL,ULSTER,North-West,-8.64260965,54.64259474,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,289
+Teelin Slip,SLIPWAY,DONEGAL,ULSTER,North-West,-8.63234725,54.62371493,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,290
+Rosmoney Quay,QUAY,MAYO,CONNAUGHT,West,-9.61787327,53.82399345,Wharf usually built parallel to the shoreline,500,223
+Westport Bay,PIER,MAYO,CONNAUGHT,West,-9.62617986,53.78444956,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,224
+Leckanvy Pier,PIER,MAYO,CONNAUGHT,West,-9.68906984,53.78363705,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,221
+Roscahill Slipway,SLIPWAY,MAYO,CONNAUGHT,West,-9.60801973,53.83365566,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,222
+Oldhead Quay,QUAY,MAYO,CONNAUGHT,West,-9.76775742,53.77816552,Wharf usually built parallel to the shoreline,500,219
+Oldhead Slipway,SLIPWAY,MAYO,CONNAUGHT,West,-9.76890327,53.77792035,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,220
+Roonah Point,PIER,MAYO,CONNAUGHT,West,-9.90401823,53.7615062,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,217
+Carrowmore Quay,QUAY,MAYO,CONNAUGHT,West,-9.82937792,53.77056414,Wharf usually built parallel to the shoreline,500,218
+Inner Killary,PIER,GALWAY,CONNAUGHT,West,-9.67806336,53.60972461,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,215
+Roonah Point,QUAY,MAYO,CONNAUGHT,West,-9.90385155,53.76227088,Wharf usually built parallel to the shoreline,500,216
+Nancy's Point Slip,SLIPWAY,GALWAY,CONNAUGHT,West,-9.72992839,53.59994114,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,213
+Leenane Pier,PIER,GALWAY,CONNAUGHT,West,-9.70590353,53.59606521,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,214
+Rosroe Quay,QUAY,GALWAY,CONNAUGHT,West,-9.85955587,53.62026068,Wharf usually built parallel to the shoreline,500,211
+An Caolaire Rua,QUAY,GALWAY,CONNAUGHT,West,-9.7542854,53.59838048,Wharf usually built parallel to the shoreline,500,212
+Passage East Quay,QUAY,WATERFORD,MUNSTER,South-East,-6.97134257,52.24009849,Wharf usually built parallel to the shoreline,500,209
+Cheekpoint Pier,PIER,WATERFORD,MUNSTER,South-East,-6.99452207,52.27168924,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,210
+Tramore,PIER,WATERFORD,MUNSTER,South-East,-7.15819105,52.15282798,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,207
+Dunmore East Pier,PIER,WATERFORD,MUNSTER,South-East,-6.98876824,52.14830088,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,208
+Dungarvan Slip,SLIPWAY,WATERFORD,MUNSTER,South-East,-7.61248892,52.08739132,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,205
+Bunmahon Slip,SLIPWAY,WATERFORD,MUNSTER,South-East,-7.36958164,52.13828053,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,206
+Helvick Pier,PIER,WATERFORD,MUNSTER,South-East,-7.54565334,52.05427768,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,203
+Helvick New Pier,PIER,WATERFORD,MUNSTER,South-East,-7.54425944,52.05478597,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,204
+Ardsallagh Pier,PIER,WATERFORD,MUNSTER,South-East,-7.87949873,51.99489448,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,201
+Ardmore Pier,PIER,WATERFORD,MUNSTER,South-East,-7.71537578,51.94916386,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,202
+Doiri Beaga Pier,PIER,DONEGAL,ULSTER,North-West,-8.32264792,55.08221566,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,199
+Drumnatinny Pier,PIER,DONEGAL,ULSTER,North-West,-8.08248103,55.15855432,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,200
+Bunnaninver Pier,PIER,DONEGAL,ULSTER,North-West,-8.30287659,55.12022313,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,197
+Carrick Pier,PIER,DONEGAL,ULSTER,North-West,-8.31490185,55.10134449,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,198
+Moville Pier,PIER,DONEGAL,ULSTER,North-West,-7.0568041,55.18162143,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,195
+Ballyness Pier,PIER,DONEGAL,ULSTER,North-West,-8.12172299,55.14969585,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,196
+Culdaff Pier,PIER,DONEGAL,ULSTER,North-West,-7.15269494,55.30043795,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,193
+Moville Pier,PIER,DONEGAL,ULSTER,North-West,-7.04070292,55.18670461,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,194
+Inishturk,PIER,MAYO,CONNAUGHT,West,-10.09101144,53.70475992,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,255
+Inishturk,QUAY,MAYO,CONNAUGHT,West,-10.09067274,53.70528525,Wharf usually built parallel to the shoreline,500,256
+Clare Island,PIER,MAYO,CONNAUGHT,West,-9.95068852,53.80005794,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,253
+Clare Island,PIER,MAYO,CONNAUGHT,West,-9.97364737,53.79225585,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,254
+Ballinlena Pier,PIER,MAYO,CONNAUGHT,West,-9.20794559,54.27444203,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,251
+Killala Pier,PIER,MAYO,CONNAUGHT,West,-9.21510365,54.21617156,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,252
+Rathlackan,PIER,MAYO,CONNAUGHT,West,-9.24964566,54.28965076,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,249
+Rathlackan,SLIPWAY,MAYO,CONNAUGHT,West,-9.25002874,54.28941856,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,250
+Belderg,PIER,MAYO,CONNAUGHT,West,-9.55232507,54.31141163,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,247
+Dooclogh,PIER,MAYO,CONNAUGHT,West,-9.38852774,54.30119795,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,248
+Sruwaddacon Bay,PIER,MAYO,CONNAUGHT,West,-9.80355872,54.27172034,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,245
+Porturlin,PIER,MAYO,CONNAUGHT,West,-9.71058339,54.32016958,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,246
+Blind Harbour,SLIPWAY,MAYO,CONNAUGHT,West,-9.93039435,54.26530501,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,243
+Ross Port,PIER,MAYO,CONNAUGHT,West,-9.80582358,54.28560957,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,244
+Knocknaina Pier,PIER,MAYO,CONNAUGHT,West,-9.8910607,54.2536029,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,241
+Knocknaina Pier,PIER,MAYO,CONNAUGHT,West,-9.89521745,54.25074151,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,242
+Blacksod Point,PIER,MAYO,CONNAUGHT,West,-10.06181826,54.09946447,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,239
+Blacksod,SLIPWAY,MAYO,CONNAUGHT,West,-10.06731337,54.10062562,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,240
+Mweelillin Quay,QUAY,MAYO,CONNAUGHT,West,-9.92595578,53.89600829,Wharf usually built parallel to the shoreline,500,237
+Belmullet Quay,QUAY,MAYO,CONNAUGHT,West,-9.99241061,54.22320957,Wharf usually built parallel to the shoreline,500,238
+Achillbeg Island,SLIPWAY,MAYO,CONNAUGHT,West,-9.95169713,53.87138256,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,235
+Corraun Quay,QUAY,MAYO,CONNAUGHT,West,-9.9283065,53.87929355,Wharf usually built parallel to the shoreline,500,236
+Bunacurry Harbour,SLIPWAY,MAYO,CONNAUGHT,West,-9.95489937,53.97308012,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,233
+Achill Sound Pier,PIER,MAYO,CONNAUGHT,West,-9.92405705,53.92975139,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,234
+Creggancarragh,SLIPWAY,MAYO,CONNAUGHT,West,-10.03195732,54.01494385,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,231
+Doogort Slip,SLIPWAY,MAYO,CONNAUGHT,West,-10.02656836,54.01172498,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,232
+Bull's Mouth Slip,SLIPWAY,MAYO,CONNAUGHT,West,-9.92870004,53.99684351,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,229
+Creggancarragh,QUAY,MAYO,CONNAUGHT,West,-10.03216486,54.01522567,Wharf usually built parallel to the shoreline,500,230
+Mallaranny Pier,PIER,MAYO,CONNAUGHT,West,-9.77602492,53.89730689,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,227
+Keel,QUAY,MAYO,CONNAUGHT,West,-10.09902393,53.9632293,Wharf usually built parallel to the shoreline,500,228
+Rosbeg Pier,PIER,MAYO,CONNAUGHT,West,-9.57873887,53.85810686,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,225
+Burrishoole Quay,QUAY,MAYO,CONNAUGHT,West,-9.57114755,53.92252017,Wharf usually built parallel to the shoreline,500,226
+Cloonile Quay,QUAY,GALWAY,CONNAUGHT,West,-9.85599049,53.43350869,Wharf usually built parallel to the shoreline,500,159
+Aillenacally Pier,PIER,GALWAY,CONNAUGHT,West,-9.87649332,53.41909283,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,160
+Bertraghboy Bay Quay,QUAY,GALWAY,CONNAUGHT,West,-9.84041862,53.37459765,Wharf usually built parallel to the shoreline,500,157
+Scrahallia Quay,QUAY,GALWAY,CONNAUGHT,West,-9.82685102,53.42366516,Wharf usually built parallel to the shoreline,500,158
+Letterard Quay,QUAY,GALWAY,CONNAUGHT,West,-9.89117209,53.36558599,Wharf usually built parallel to the shoreline,500,155
+Letterard Pier,PIER,GALWAY,CONNAUGHT,West,-9.86359487,53.36990064,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,156
+Mace Head Quay,QUAY,GALWAY,CONNAUGHT,West,-9.88661822,53.3402616,Wharf usually built parallel to the shoreline,500,153
+Moyrus Quay,QUAY,GALWAY,CONNAUGHT,West,-9.88330153,53.34938826,Wharf usually built parallel to the shoreline,500,154
+Finish Island Quay,QUAY,GALWAY,CONNAUGHT,West,-9.81248061,53.2987224,Wharf usually built parallel to the shoreline,500,151
+Ard West Quay,QUAY,GALWAY,CONNAUGHT,West,-9.87574955,53.31423748,Wharf usually built parallel to the shoreline,500,152
+Ardmore Quay,QUAY,GALWAY,CONNAUGHT,West,-9.77349403,53.30044999,Wharf usually built parallel to the shoreline,500,149
+Mweenish Bay Quay,QUAY,GALWAY,CONNAUGHT,West,-9.80270139,53.30628978,Wharf usually built parallel to the shoreline,500,150
+Quay,QUAY,GALWAY,CONNAUGHT,West,-9.63883993,53.37890552,Wharf usually built parallel to the shoreline,500,147
+Kilkieran Quay,QUAY,GALWAY,CONNAUGHT,West,-9.73129197,53.32167229,Wharf usually built parallel to the shoreline,500,148
+Kilbrickan Pier,PIER,GALWAY,CONNAUGHT,West,-9.63076258,53.3598412,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,145
+Pier,PIER,GALWAY,CONNAUGHT,West,-9.63870097,53.37280112,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,146
+Furnace,PIER,GALWAY,CONNAUGHT,West,-9.74681902,53.2490811,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,143
+Kinvarra Quay,QUAY,GALWAY,CONNAUGHT,West,-9.56898081,53.3374428,Wharf usually built parallel to the shoreline,500,144
+Lettermullan Pier,PIER,GALWAY,CONNAUGHT,West,-9.72011948,53.23343269,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,141
+Furnace Pier,PIER,GALWAY,CONNAUGHT,West,-9.73855897,53.25422406,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,142
+Gorumna Island,SLIPWAY,GALWAY,CONNAUGHT,West,-9.71538221,53.24103424,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,139
+Lettermullan Quay,QUAY,GALWAY,CONNAUGHT,West,-9.72220281,53.23557127,Wharf usually built parallel to the shoreline,500,140
+Gorumna Island,QUAY,GALWAY,CONNAUGHT,West,-9.65010521,53.23322424,Wharf usually built parallel to the shoreline,500,137
+Gorumna Island,QUAY,GALWAY,CONNAUGHT,West,-9.69439236,53.22746649,Wharf usually built parallel to the shoreline,500,138
+Gorumna Island,QUAY,GALWAY,CONNAUGHT,West,-9.64255647,53.24474244,Wharf usually built parallel to the shoreline,500,135
+Gorumna Island,QUAY,GALWAY,CONNAUGHT,West,-9.65243411,53.22948244,Wharf usually built parallel to the shoreline,500,136
+Glentrasna,QUAY,GALWAY,CONNAUGHT,West,-9.68164165,53.27096309,Wharf usually built parallel to the shoreline,500,133
+Carraveg Bay,QUAY,GALWAY,CONNAUGHT,West,-9.65338122,53.26639333,Wharf usually built parallel to the shoreline,500,134
+Lettermore Island,QUAY,GALWAY,CONNAUGHT,West,-9.69939726,53.28417976,Wharf usually built parallel to the shoreline,500,131
+Inishbarra Island,QUAY,GALWAY,CONNAUGHT,West,-9.71057509,53.28031039,Wharf usually built parallel to the shoreline,500,132
+Lettermore Island,QUAY,GALWAY,CONNAUGHT,West,-9.65286756,53.29995718,Wharf usually built parallel to the shoreline,500,129
+Lettermore Island,QUAY,GALWAY,CONNAUGHT,West,-9.69289589,53.30761366,Wharf usually built parallel to the shoreline,500,130
+West Town Pier,PIER,DONEGAL,ULSTER,North-West,-7.35986712,55.36088615,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,191
+Portaleen Pier,PIER,DONEGAL,ULSTER,North-West,-7.17281086,55.31982126,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,192
+Ballynakilla Pier,PIER,CORK,MUNSTER,South,-9.85805781,51.64226212,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,189
+Portmore Pier,PIER,DONEGAL,ULSTER,North-West,-7.33370285,55.37212477,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,190
+Mill Cove Pier,PIER,CORK,MUNSTER,South,-9.86048612,51.65227067,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,187
+Mill Cove Slip,SLIPWAY,CORK,MUNSTER,South,-9.86100307,51.65243978,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,188
+Nabulliga Pier,PIER,CORK,MUNSTER,South,-9.7449996,51.67036997,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,185
+Bank Harbour Quay,QUAY,CORK,MUNSTER,South,-9.79167914,51.6597914,Wharf usually built parallel to the shoreline,500,186
+Glengarriff Pier,PIER,CORK,MUNSTER,South,-9.54129409,51.74908283,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,183
+Ardrigole Quay,QUAY,CORK,MUNSTER,South,-9.72768167,51.69054835,Wharf usually built parallel to the shoreline,500,184
+Whiddy Oil,SLIPWAY,CORK,MUNSTER,South,-9.52908634,51.68439675,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,181
+Gallows Hill Slip,SLIPWAY,CORK,MUNSTER,South,-9.49432067,51.68278924,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,182
+Reenaknock Quay,QUAY,CORK,MUNSTER,South,-9.52860386,51.68097807,Wharf usually built parallel to the shoreline,500,179
+Reenaknock Slip,SLIPWAY,CORK,MUNSTER,South,-9.52806852,51.6814417,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,180
+Tully Quay,QUAY,GALWAY,CONNAUGHT,West,-9.97242094,53.60276801,Wharf usually built parallel to the shoreline,500,177
+Whiddy Island Quay,QUAY,CORK,MUNSTER,South,-9.48670703,51.69144822,Wharf usually built parallel to the shoreline,500,178
+Letterfrack Quay,QUAY,GALWAY,CONNAUGHT,West,-9.96587793,53.5507141,Wharf usually built parallel to the shoreline,500,175
+Ballynakill Harbour,QUAY,GALWAY,CONNAUGHT,West,-9.98066085,53.57175718,Wharf usually built parallel to the shoreline,500,176
+Claddaghduff Quay,QUAY,GALWAY,CONNAUGHT,West,-10.14637776,53.54024759,Wharf usually built parallel to the shoreline,500,173
+Cleggan Quay,QUAY,GALWAY,CONNAUGHT,West,-10.10964151,53.55676738,Wharf usually built parallel to the shoreline,500,174
+Ballinaboy Quay,QUAY,GALWAY,CONNAUGHT,West,-10.03660203,53.45887313,Wharf usually built parallel to the shoreline,500,171
+Clifden Quay,QUAY,GALWAY,CONNAUGHT,West,-10.02911086,53.48545378,Wharf usually built parallel to the shoreline,500,172
+Errislannan Pier,PIER,GALWAY,CONNAUGHT,West,-10.08901274,53.4843351,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,169
+Faul Quay,QUAY,GALWAY,CONNAUGHT,West,-10.04368968,53.47901238,Wharf usually built parallel to the shoreline,500,170
+Doonloughan Quay,QUAY,GALWAY,CONNAUGHT,West,-10.15394176,53.44197575,Wharf usually built parallel to the shoreline,500,167
+Doonloughan,QUAY,GALWAY,CONNAUGHT,West,-10.15256505,53.43743476,Wharf usually built parallel to the shoreline,500,168
+Bunowen Bay Quay,QUAY,GALWAY,CONNAUGHT,West,-10.11636643,53.40526517,Wharf usually built parallel to the shoreline,500,165
+Aillebrack Quay,QUAY,GALWAY,CONNAUGHT,West,-10.12916017,53.40709227,Wharf usually built parallel to the shoreline,500,166
+Ballyconneely Bay,PIER,GALWAY,CONNAUGHT,West,-10.04534263,53.41192507,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,163
+Bunowen Bay Slip,SLIPWAY,GALWAY,CONNAUGHT,West,-10.11571828,53.40567616,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,164
+Roundstone Pier,PIER,GALWAY,CONNAUGHT,West,-9.91783775,53.39737685,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,161
+Ballyconneely Bay,QUAY,GALWAY,CONNAUGHT,West,-10.03451163,53.40714491,Wharf usually built parallel to the shoreline,500,162
+Parkmore Quay,QUAY,GALWAY,CONNAUGHT,West,-8.96723111,53.1713304,Wharf usually built parallel to the shoreline,500,95
+Killeenaran Quay,QUAY,GALWAY,CONNAUGHT,West,-8.94015426,53.19694139,Wharf usually built parallel to the shoreline,500,96
+Kinvara Quay,QUAY,GALWAY,CONNAUGHT,West,-8.93663565,53.14013161,Wharf usually built parallel to the shoreline,500,93
+Kinvara Bay,QUAY,GALWAY,CONNAUGHT,West,-8.94279751,53.16581972,Wharf usually built parallel to the shoreline,500,94
+Burren,QUAY,CLARE,MUNSTER,Mid-West,-9.07522678,53.15602034,Wharf usually built parallel to the shoreline,500,91
+Leagh North,QUAY,CLARE,MUNSTER,Mid-West,-9.00926822,53.14084726,Wharf usually built parallel to the shoreline,500,92
+Ballyvaughan,QUAY,CLARE,MUNSTER,Mid-West,-9.13989502,53.12072216,Wharf usually built parallel to the shoreline,500,89
+Bell Harbour,QUAY,CLARE,MUNSTER,Mid-West,-9.07088153,53.12256135,Wharf usually built parallel to the shoreline,500,90
+Ballyvaughan Quay,QUAY,CLARE,MUNSTER,Mid-West,-9.15249161,53.11997314,Wharf usually built parallel to the shoreline,500,87
+Gall Island,QUAY,CLARE,MUNSTER,Mid-West,-9.14788114,53.1213873,Wharf usually built parallel to the shoreline,500,88
+Liscannor Quay,QUAY,CLARE,MUNSTER,Mid-West,-9.38662297,52.93742172,Wharf usually built parallel to the shoreline,500,85
+Coolsiva Quay,QUAY,CLARE,MUNSTER,Mid-West,-9.22433115,53.14105583,Wharf usually built parallel to the shoreline,500,86
+Quilty Slip,SLIPWAY,CLARE,MUNSTER,Mid-West,-9.45545171,52.81806126,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,83
+Liscannor Slip,SLIPWAY,CLARE,MUNSTER,Mid-West,-9.38597839,52.93794287,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,84
+Doonbeg Slip,SLIPWAY,CLARE,MUNSTER,Mid-West,-9.53827144,52.73704861,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,81
+Seafield Harbour,QUAY,CLARE,MUNSTER,Mid-West,-9.48803849,52.80955289,Wharf usually built parallel to the shoreline,500,82
+Kilbaha Quay,QUAY,CLARE,MUNSTER,Mid-West,-9.86109437,52.56822083,Wharf usually built parallel to the shoreline,500,79
+Kilbaha Slip,SLIPWAY,CLARE,MUNSTER,Mid-West,-9.86175289,52.56824933,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,80
+Carrigaholt New Quay,QUAY,CLARE,MUNSTER,Mid-West,-9.69842565,52.60074538,Wharf usually built parallel to the shoreline,500,77
+Carrigaholt Quay,QUAY,CLARE,MUNSTER,Mid-West,-9.70640852,52.60354148,Wharf usually built parallel to the shoreline,500,78
+Cappagh Pier,PIER,CLARE,MUNSTER,Mid-West,-9.49858669,52.62773211,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,75
+Querrin Point Quay,QUAY,CLARE,MUNSTER,Mid-West,-9.58728734,52.62768543,Wharf usually built parallel to the shoreline,500,76
+Knock Quay,QUAY,CLARE,MUNSTER,Mid-West,-9.33214938,52.62717671,Wharf usually built parallel to the shoreline,500,73
+Killimer Quay,QUAY,CLARE,MUNSTER,Mid-West,-9.37977358,52.61453205,Wharf usually built parallel to the shoreline,500,74
+Labaseeda Point Quay,QUAY,CLARE,MUNSTER,Mid-West,-9.25511757,52.61962825,Wharf usually built parallel to the shoreline,500,71
+Labaseeda Quay,QUAY,CLARE,MUNSTER,Mid-West,-9.24552797,52.62206944,Wharf usually built parallel to the shoreline,500,72
+Killadysert Quay,QUAY,CLARE,MUNSTER,Mid-West,-9.09900313,52.66911946,Wharf usually built parallel to the shoreline,500,69
+Cathair Quay,QUAY,CLARE,MUNSTER,Mid-West,-9.10984543,52.65241067,Wharf usually built parallel to the shoreline,500,70
+Tarbert Pier,PIER,KERRY,MUNSTER,South-West,-9.36018076,52.58635733,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,67
+Tarbert Island Pier,PIER,KERRY,MUNSTER,South-West,-9.36698665,52.59058807,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,68
+Meenogahane Quay,QUAY,KERRY,MUNSTER,South-West,-9.77021902,52.44857095,Wharf usually built parallel to the shoreline,500,65
+Tarbert Quay,QUAY,KERRY,MUNSTER,South-West,-9.35817934,52.5866685,Wharf usually built parallel to the shoreline,500,66
+Lettermore Island,QUAY,GALWAY,CONNAUGHT,West,-9.70764753,53.29524754,Wharf usually built parallel to the shoreline,500,127
+Lettermore Island,QUAY,GALWAY,CONNAUGHT,West,-9.6720172,53.30487038,Wharf usually built parallel to the shoreline,500,128
+Lettermore Island,QUAY,GALWAY,CONNAUGHT,West,-9.68257455,53.28744302,Wharf usually built parallel to the shoreline,500,125
+Lettermore Island,QUAY,GALWAY,CONNAUGHT,West,-9.69619883,53.29238625,Wharf usually built parallel to the shoreline,500,126
+Lettermore Quay,QUAY,GALWAY,CONNAUGHT,West,-9.65373334,53.28784651,Wharf usually built parallel to the shoreline,500,123
+Lettermore Slip,SLIPWAY,GALWAY,CONNAUGHT,West,-9.67554204,53.2878274,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,124
+Annaghvaan,PIER,GALWAY,CONNAUGHT,West,-9.64932076,53.31421647,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,121
+Lettermore Island,PIER,GALWAY,CONNAUGHT,West,-9.63466945,53.2949006,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,122
+Bealadangan Quay,QUAY,GALWAY,CONNAUGHT,West,-9.62375353,53.31097194,Wharf usually built parallel to the shoreline,500,119
+Bealadangan Slip,SLIPWAY,GALWAY,CONNAUGHT,West,-9.60067818,53.32583633,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,120
+Rossroe Island Slip,SLIPWAY,GALWAY,CONNAUGHT,West,-9.60390269,53.28727167,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,117
+Carraoe North,QUAY,GALWAY,CONNAUGHT,West,-9.60197587,53.29431703,Wharf usually built parallel to the shoreline,500,118
+An CeathrÃº Rua,QUAY,GALWAY,CONNAUGHT,West,-9.62432889,53.26085751,Wharf usually built parallel to the shoreline,500,115
+An CeathrÃº Rua Slip,SLIPWAY,GALWAY,CONNAUGHT,West,-9.60414378,53.27591172,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,116
+Carraroe Slip,SLIPWAY,GALWAY,CONNAUGHT,West,-9.59032147,53.26776483,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,113
+An CeathrÃº Rua Quay,QUAY,GALWAY,CONNAUGHT,West,-9.57802771,53.25445994,Wharf usually built parallel to the shoreline,500,114
+Ros a Mhil Quay,QUAY,GALWAY,CONNAUGHT,West,-9.5625882,53.26687605,Wharf usually built parallel to the shoreline,500,111
+Rossaveel Quay,QUAY,GALWAY,CONNAUGHT,West,-9.56002553,53.26708081,Wharf usually built parallel to the shoreline,500,112
+An SpidÃ©al Slip,SLIPWAY,GALWAY,CONNAUGHT,West,-9.30373656,53.24312668,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,109
+Keeraunnagark South,QUAY,GALWAY,CONNAUGHT,West,-9.54917102,53.24593574,Wharf usually built parallel to the shoreline,500,110
+An SpidÃ©al Quay,QUAY,GALWAY,CONNAUGHT,West,-9.30515912,53.24245444,Wharf usually built parallel to the shoreline,500,107
+Cora na CÃ©ibhe,QUAY,GALWAY,CONNAUGHT,West,-9.30871788,53.24004247,Wharf usually built parallel to the shoreline,500,108
+Claddagh Pier,PIER,GALWAY,CONNAUGHT,West,-9.04705043,53.26664023,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,105
+Barna Quay,QUAY,GALWAY,CONNAUGHT,West,-9.14955525,53.24857621,Wharf usually built parallel to the shoreline,500,106
+Oranmore Castle Pier,PIER,GALWAY,CONNAUGHT,West,-8.93434248,53.26809157,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,103
+Roscam Quay,QUAY,GALWAY,CONNAUGHT,West,-8.97305989,53.26937842,Wharf usually built parallel to the shoreline,500,104
+Maree Quay,QUAY,GALWAY,CONNAUGHT,West,-8.96683213,53.24355884,Wharf usually built parallel to the shoreline,500,101
+Rinville,QUAY,GALWAY,CONNAUGHT,West,-8.98311256,53.25114925,Wharf usually built parallel to the shoreline,500,102
+Carrowmore,QUAY,GALWAY,CONNAUGHT,West,-8.95773,53.20952702,Wharf usually built parallel to the shoreline,500,99
+Maree Slip,SLIPWAY,GALWAY,CONNAUGHT,West,-8.96771003,53.24322909,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,100
+Weir Village,QUAY,GALWAY,CONNAUGHT,West,-8.89747301,53.209939,Wharf usually built parallel to the shoreline,500,97
+Clarinbridge,QUAY,GALWAY,CONNAUGHT,West,-8.88913843,53.22518079,Wharf usually built parallel to the shoreline,500,98
+Ballycotton North,PIER,CORK,MUNSTER,South,-8.00200406,51.82793205,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,31
+Ballycotton South,PIER,CORK,MUNSTER,South,-8.00011983,51.82743172,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,32
+Youghal Quay South,QUAY,CORK,MUNSTER,South,-7.84482227,51.95347246,Wharf usually built parallel to the shoreline,500,29
+Knockadoon Head Slip,SLIPWAY,CORK,MUNSTER,South,-7.86634946,51.88517402,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,30
+Aughinish Quay,QUAY,LIMERICK,MUNSTER,Mid-West,-9.05705867,52.61586725,Wharf usually built parallel to the shoreline,500,27
+Youghal Quay North,QUAY,CORK,MUNSTER,South,-7.8464329,51.95608747,Wharf usually built parallel to the shoreline,500,28
+Glin Quay,QUAY,LIMERICK,MUNSTER,Mid-West,-9.28714165,52.57180557,Wharf usually built parallel to the shoreline,500,25
+Aughinish Quay,QUAY,LIMERICK,MUNSTER,Mid-West,-9.05436644,52.61827744,Wharf usually built parallel to the shoreline,500,26
+Beal Lough Slipway,SLIPWAY,CORK,MUNSTER,SOUTH,-9.85500618,51.65439806,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,23
+Glin Pier,PIER,LIMERICK,MUNSTER,Mid-West,-9.28308152,52.575034,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,24
+Bear Island Pier,PIER,CORK,MUNSTER,SOUTH,-9.89988865,51.63864347,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,21
+Beal Lough Pier,PIER,CORK,MUNSTER,SOUTH,-9.85500618,51.65480552,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,22
+Garnish Quay,QUAY,CORK,MUNSTER,SOUTH,-10.13335156,51.61882115,Wharf usually built parallel to the shoreline,500,19
+Back Ball Harbour,QUAY,CORK,MUNSTER,SOUTH,-10.04029677,51.59562628,Wharf usually built parallel to the shoreline,500,20
+Tinnally Point Slip,SLIPWAY,KERRY,MUNSTER,SOUTH-WEST,-9.78522202,52.14927476,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,17
+Rossdohan Pier,PIER,KERRY,MUNSTER,SOUTH-WEST,-9.85845449,51.81105638,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,18
+Dunquin Pier,PIER,KERRY,MUNSTER,SOUTH-WEST,-10.46200291,52.12490982,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,15
+Cloonearagh Slip,SLIPWAY,KERRY,MUNSTER,SOUTH-WEST,-9.78577264,52.15182137,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,16
+Scraggano Point Slip,SLIPWAY,KERRY,MUNSTER,SOUTH-WEST,-10.03343868,52.31016732,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,13
+An Dun Rua Pier,PIER,KERRY,MUNSTER,SOUTH-WEST,-10.30989358,52.23741833,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,14
+MOOGHAUNNAMARVE SLIP,SLIPWAY,KERRY,MUNSTER,SOUTH-WEST,-9.8630312,52.39144971,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,11
+Scraggano Point Pier,PIER,KERRY,MUNSTER,SOUTH-WEST,-10.03313411,52.31039575,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,12
+Money Point Quay,QUAY,CLARE,MUNSTER,Mid-WEST,-9.39574313,52.60594384,Wharf usually built parallel to the shoreline,500,9
+Moneycashen Quay,QUAY,KERRY,MUNSTER,SOUTH-WEST,-9.68059316,52.48251644,Wharf usually built parallel to the shoreline,500,10
+Kilkee Slipway,SLIPWAY,CLARE,MUNSTER,Mid-WEST,-9.64952692,52.6826196,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,7
+Poulnadarree Quay,QUAY,CLARE,MUNSTER,Mid-WEST,-9.39208827,52.60975098,Wharf usually built parallel to the shoreline,500,8
+Inishmaan Slipway,SLIPWAY,GALWAY,CONNAUGHT,WEST,-9.59097314,53.10011031,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,5
+Inishmore N-W,SLIPWAY,GALWAY,CONNAUGHT,WEST,-9.8272441,53.14069439,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,6
+Inisheer East Pier,PIER,GALWAY,CONNAUGHT,WEST,-9.50194323,53.05983079,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,3
+Inisheer South Quay,QUAY,GALWAY,CONNAUGHT,WEST,-9.52295863,53.04755277,Wharf usually built parallel to the shoreline,500,4
+Inis Leacan Pier,PIER,MAYO,CONNAUGHT,WEST,-9.92155854,53.37440188,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,1
+Bird Island Quay,QUAY,MAYO,CONNAUGHT,WEST,-8.95857903,53.25691679,Wharf usually built parallel to the shoreline,500,2
+Brandon Pier,PIER,KERRY,MUNSTER,South-West,-10.15873679,52.26823104,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,63
+Fenit Pier,PIER,KERRY,MUNSTER,South-West,-9.85987551,52.26985957,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,64
+Inch Quay,QUAY,KERRY,MUNSTER,South-West,-9.93123183,52.14702179,Wharf usually built parallel to the shoreline,500,61
+Ventry,PIER,KERRY,MUNSTER,South-West,-10.36445778,52.11539963,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,62
+Cromane Slip,SLIPWAY,KERRY,MUNSTER,South-West,-9.89976313,52.12053355,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,59
+Ballykissane Pier,PIER,KERRY,MUNSTER,South-West,-9.78488846,52.12563947,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,60
+Cahersiveen Quay,QUAY,KERRY,MUNSTER,South-West,-10.22978941,51.94794983,Wharf usually built parallel to the shoreline,500,57
+Cromane Slip,SLIPWAY,KERRY,MUNSTER,South-West,-9.91924025,52.09687164,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,58
+Reenard Point Quay,QUAY,KERRY,MUNSTER,South-West,-10.2777205,51.92762257,Wharf usually built parallel to the shoreline,500,55
+Aghnagar Quay,QUAY,KERRY,MUNSTER,South-West,-10.24965426,51.90001901,Wharf usually built parallel to the shoreline,500,56
+Illaunloughan Quay,QUAY,KERRY,MUNSTER,South-West,-10.36918553,51.88766843,Wharf usually built parallel to the shoreline,500,53
+Knight's Town Quay,QUAY,KERRY,MUNSTER,South-West,-10.28612029,51.92574707,Wharf usually built parallel to the shoreline,500,54
+Ballinskelligs Slip,SLIPWAY,KERRY,MUNSTER,South-West,-10.27302057,51.81074784,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,51
+Cloghanecanuig Quay,QUAY,KERRY,MUNSTER,South-West,-10.35657611,51.84617145,Wharf usually built parallel to the shoreline,500,52
+Rineen Slipway,SLIPWAY,KERRY,MUNSTER,South-West,-10.1835703,51.78632313,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,49
+Meenagulleen Slipway,SLIPWAY,KERRY,MUNSTER,South-West,-10.25215943,51.8389334,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,50
+Derrynane Quay,QUAY,KERRY,MUNSTER,South-West,-10.14332678,51.76008944,Wharf usually built parallel to the shoreline,500,47
+Bunavalla Quay,QUAY,KERRY,MUNSTER,South-West,-10.15116643,51.76498143,Wharf usually built parallel to the shoreline,500,48
+Illaunleagh Quay,QUAY,KERRY,MUNSTER,South-West,-10.05529691,51.76952965,Wharf usually built parallel to the shoreline,500,45
+Gortnakilly Pier,PIER,KERRY,MUNSTER,South-West,-10.10094828,51.75440497,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,46
+Parknasilla Slipway,SLIPWAY,KERRY,MUNSTER,South-West,-9.89657235,51.81364763,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,43
+Gleesk Quay,QUAY,KERRY,MUNSTER,South-West,-9.94015738,51.80053462,Wharf usually built parallel to the shoreline,500,44
+Assroe Quay,QUAY,KERRY,MUNSTER,South-West,-9.65764856,51.86873137,Wharf usually built parallel to the shoreline,500,41
+Parknasilla Quay,QUAY,KERRY,MUNSTER,South-West,-9.87392051,51.81486502,Wharf usually built parallel to the shoreline,500,42
+Kenmare Pier,PIER,KERRY,MUNSTER,South-West,-9.58863721,51.87215605,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,39
+Dromcunnia Quay,QUAY,KERRY,MUNSTER,South-West,-9.6370584,51.86964907,Wharf usually built parallel to the shoreline,500,40
+Bunaw Quay,QUAY,KERRY,MUNSTER,South-West,-9.80676973,51.77896296,Wharf usually built parallel to the shoreline,500,37
+Coornagillagh Quey,QUAY,KERRY,MUNSTER,South-West,-9.73958739,51.824212,Wharf usually built parallel to the shoreline,500,38
+Garrahekinnefeake,QUAY,CORK,MUNSTER,South,-8.20398103,51.86883959,Wharf usually built parallel to the shoreline,500,35
+Garrahekinnefeake,QUAY,CORK,MUNSTER,South,-8.20263818,51.86978701,Wharf usually built parallel to the shoreline,500,36
+Gyleen Slip,SLIPWAY,CORK,MUNSTER,South,-8.19422684,51.79346964,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,33
+Aghada Lower,PIER,CORK,MUNSTER,South,-8.20916793,51.84475807,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,34
+Roaringwater Quay,QUAY,CORK,MUNSTER,SOUTH,-9.39425691,51.55268384,Wharf usually built parallel to the shoreline,500,479
+Lahneralanvally Slip,SLIPWAY,CORK,MUNSTER,SOUTH,-9.39223658,51.54224548,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,480
+Carrigboy Pier,PIER,CORK,MUNSTER,SOUTH,-9.53949599,51.61737172,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,477
+Skeaghanore East,QUAY,CORK,MUNSTER,SOUTH,-9.43309209,51.5506261,Wharf usually built parallel to the shoreline,500,478
+Dooneen Pier,PIER,CORK,MUNSTER,SOUTH,-9.72880813,51.56379564,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,475
+Ahakista Pier,PIER,CORK,MUNSTER,SOUTH,-9.62883935,51.59873982,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,476
+Derreenacarrin,QUAY,CORK,MUNSTER,SOUTH,-9.59719795,51.69531908,Wharf usually built parallel to the shoreline,500,473
+Ballynatra Quay,QUAY,CORK,MUNSTER,SOUTH,-9.75552134,51.55953051,Wharf usually built parallel to the shoreline,500,474
+Knockane Quay,QUAY,CORK,MUNSTER,SOUTH,-9.77345519,51.66126674,Wharf usually built parallel to the shoreline,500,471
+Trafrask Quay,QUAY,CORK,MUNSTER,SOUTH,-9.67193847,51.68088321,Wharf usually built parallel to the shoreline,500,472
+Inish Bigil Slip,SLIPWAY,MAYO,CONNAUGHT,WEST,-9.92275856,53.996062,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,469
+Knockboy Quay,QUAY,MAYO,CONNAUGHT,WEST,-9.60679945,53.89028069,Wharf usually built parallel to the shoreline,500,470
+Curraghboy Quay,QUAY,MAYO,CONNAUGHT,WEST,-10.03854652,54.1927216,Wharf usually built parallel to the shoreline,500,467
+Dooagh Pier,PIER,MAYO,CONNAUGHT,WEST,-10.13374537,53.9707255,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,468
+Inver Pier,PIER,MAYO,CONNAUGHT,WEST,-9.87665799,54.24127123,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,465
+Portacloy Pier,PIER,MAYO,CONNAUGHT,WEST,-9.78301779,54.33415518,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,466
+Tory Island Pier,PIER,DONEGAL,ULSTER,NORTH-WEST,-8.22604244,55.26390469,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,463
+East Town Pier,PIER,DONEGAL,ULSTER,NORTH-WEST,-8.19415767,55.25579073,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,464
+Portnablagh Pier,PIER,DONEGAL,ULSTER,NORTH-WEST,-7.92867731,55.18120651,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,461
+Dunfanaghy Pier,PIER,DONEGAL,ULSTER,NORTH-WEST,-7.97114209,55.18413321,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,462
+Fanny's Bay Pier,PIER,DONEGAL,ULSTER,NORTH-WEST,-7.81365844,55.19814132,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,459
+Downies Pier,PIER,DONEGAL,ULSTER,NORTH-WEST,-7.84181356,55.1902519,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,460
+Dooneen Pier,PIER,KERRY,MUNSTER,SOUTH-WEST,-10.35617019,52.21182133,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,457
+Woodquarter,PIER,DONEGAL,ULSTER,NORTH-WEST,-7.70205207,55.12200147,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,458
+Dingle,PIER,KERRY,MUNSTER,SOUTH-WEST,-10.27478449,52.13729694,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,455
+Dingle,PIER,KERRY,MUNSTER,SOUTH-WEST,-10.27310462,52.137101,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,456
+DOOLIN QUAY,QUAY,CLARE,MUNSTER,MID-WEST,-9.40469703,53.01534226,Wharf usually built parallel to the shoreline,500,453
+Dingle Pier,PIER,KERRY,MUNSTER,SOUTH-WEST,-10.27696518,52.13639856,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,454
+CILL EINNE,PIER,GALWAY,CONNAUGHT,WEST,-9.66021424,53.10481922,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,451
+TRA LEITREACH,PIER,GALWAY,CONNAUGHT,WEST,-9.57175458,53.08081629,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,452
+CILL MUIRBHIGH,PIER,GALWAY,CONNAUGHT,WEST,-9.75163508,53.13346889,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,449
+CILL MHUIRBHIGH,QUAY,GALWAY,CONNAUGHT,WEST,-9.74689212,53.13187136,Wharf usually built parallel to the shoreline,500,450
+Rush Pier,PIER,DUBLIN,LENISTER,EAST,-6.07837621,53.52291439,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,505
+Loughshinny Pier,PIER,DUBLIN,LENISTER,EAST,-6.07837621,53.5454373,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,506
+Ballynacourth Pier,PIER,CORK,MUNSTER,SOUTH,-7.57057491,52.08402989,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,503
+Tramore Slip,SLIPWAY,WATERFORD,MUNSTER,SOUTH-EAST,-7.14615654,52.15870717,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,504
+Gallynagaul Slip,SLIPWAY,CORK,MUNSTER,SOUTH,-7.56466358,52.05095639,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,501
+Ballynacourty Slip,SLIPWAY,CORK,MUNSTER,SOUTH,-7.57094904,52.08402989,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,502
+Curraghbinny Pier,PIER,CORK,MUNSTER,SOUTH,-8.29295411,51.80829264,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,499
+Gallynagaul Pier,PIER,CORK,MUNSTER,SOUTH,-7.56488806,52.05125569,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,500
+Cashel Pier,PIER,MAYO,CONNAUGHT,WEST,-9.79683671,53.41605197,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,497
+Ring Quay,QUAY,CORK,MUNSTER,SOUTH,-8.85004063,51.60977679,Wharf usually built parallel to the shoreline,500,498
+Curhownagh Quay,QUAY,MAYO,CONNAUGHT,WEST,-10.08473245,53.46706761,Wharf usually built parallel to the shoreline,500,495
+Ervallagh Pier,PIER,MAYO,CONNAUGHT,WEST,-9.9293251,53.3820923,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,496
+Turbot Island Quay,QUAY,MAYO,CONNAUGHT,WEST,-10.14282937,53.50209328,Wharf usually built parallel to the shoreline,500,493
+Fahy Quay,QUAY,MAYO,CONNAUGHT,WEST,-10.1157987,53.50407299,Wharf usually built parallel to the shoreline,500,494
+Morrisk Quay,QUAY,MAYO,CONNAUGHT,WEST,-9.64714006,53.78191789,Wharf usually built parallel to the shoreline,500,491
+Inishturk Quay,QUAY,MAYO,CONNAUGHT,WEST,-10.15120508,53.50742327,Wharf usually built parallel to the shoreline,500,492
+Rossymailley pier,PIER,MAYO,CONNAUGHT,WEST,-9.56612417,53.79273016,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,489
+Westport Quay,QUAY,MAYO,CONNAUGHT,WEST,-9.55790075,53.79806015,Wharf usually built parallel to the shoreline,500,490
+Clynish Quay,QUAY,MAYO,CONNAUGHT,WEST,-9.63640393,53.84161381,Wharf usually built parallel to the shoreline,500,487
+Derrinish Quay,QUAY,MAYO,CONNAUGHT,WEST,-9.65010962,53.84938037,Wharf usually built parallel to the shoreline,500,488
+Rossanrubble Slipway,SLIPWAY,MAYO,CONNAUGHT,WEST,-9.59019081,53.86501795,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,485
+Inishturk Pier,PIER,MAYO,CONNAUGHT,WEST,-9.60789179,53.85400747,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,486
+Carrigillihy Slip,SLIPWAY,CORK,MUNSTER,SOUTH,-9.12218618,51.53932723,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,483
+Milcum Quay,QUAY,MAYO,CONNAUGHT,WEST,-9.5709549,53.8843803,Wharf usually built parallel to the shoreline,500,484
+Pookeen Quay,QUAY,CORK,MUNSTER,SOUTH,-9.3075325,51.50408375,Wharf usually built parallel to the shoreline,500,481
+Lough Hyne,QUAY,CORK,MUNSTER,SOUTH,-9.30304288,51.50550546,Wharf usually built parallel to the shoreline,500,482
+Clogherhead Slip,SLIPWAY,LOUTH,LEINSTER,North-East,-6.22073701,53.79872858,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,415
+Blackrock Slip,SLIPWAY,LOUTH,LEINSTER,North-East,-6.36643381,53.95726725,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,416
+Drogheda Quay,QUAY,LOUTH,LEINSTER,North-East,-6.32053608,53.71977853,Wharf usually built parallel to the shoreline,500,413
+Clogherhead Pier,PIER,LOUTH,LEINSTER,North-East,-6.22067157,53.79813887,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,414
+Balbriggan Slip,SLIPWAY,DUBLIN,LEINSTER,East,-6.18211638,53.61574617,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,411
+Balbriggan Pier,PIER,DUBLIN,LEINSTER,East,-6.17700795,53.61231145,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,412
+Rush Pier,PIER,DUBLIN,LEINSTER,East,-6.1192228,53.5108211,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,409
+Skerries Pier,PIER,DUBLIN,LEINSTER,East,-6.10688626,53.58494493,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,410
+Malahide Quay,QUAY,DUBLIN,LEINSTER,East,-6.15067136,53.45534126,Wharf usually built parallel to the shoreline,500,407
+Donabate Quay,QUAY,DUBLIN,LEINSTER,East,-6.09597691,53.49002101,Wharf usually built parallel to the shoreline,500,408
+Howth,QUAY,DUBLIN,LEINSTER,East,-6.06798083,53.39059366,Wharf usually built parallel to the shoreline,500,405
+Howth,QUAY,DUBLIN,LEINSTER,East,-6.06468058,53.39077172,Wharf usually built parallel to the shoreline,500,406
+Howth Harbour,PIER,DUBLIN,LEINSTER,East,-6.06840437,53.3919318,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,403
+Howth Harbour,PIER,DUBLIN,LEINSTER,East,-6.0634407,53.39248808,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,404
+DÃºn Laoghaire,QUAY,DUBLIN,LEINSTER,East,-6.14075824,53.29809645,Wharf usually built parallel to the shoreline,500,401
+Poolbeg,PIER,DUBLIN,LEINSTER,East,-6.16248642,53.34109227,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,402
+East Pier,PIER,DUBLIN,LEINSTER,East,-6.12417669,53.29725794,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,399
+West Pier,PIER,DUBLIN,LEINSTER,East,-6.13973841,53.30155349,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,400
+Greystones Pier East,PIER,WICKLOW,LEINSTER,East,-6.06230756,53.15054101,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,397
+Greystones Pier West,PIER,WICKLOW,LEINSTER,East,-6.0645098,53.15075025,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,398
+Wicklow Pier,PIER,WICKLOW,LEINSTER,East,-6.03735095,52.9828355,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,395
+Wicklow Pier South,PIER,WICKLOW,LEINSTER,East,-6.03276454,52.98258625,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,396
+Arklow North,PIER,WICKLOW,LEINSTER,East,-6.13778219,52.79332126,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,393
+Arklow South,PIER,WICKLOW,LEINSTER,East,-6.13638786,52.79289984,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,394
+Cahore Point Slip,SLIPWAY,WEXFORD,LEINSTER,South-East,-6.19913482,52.5693978,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,391
+Courtown Quay,QUAY,WEXFORD,LEINSTER,South-East,-6.22407944,52.64265476,Wharf usually built parallel to the shoreline,500,392
+Wexford Quay,QUAY,WEXFORD,LEINSTER,South-East,-6.46700721,52.34902917,Wharf usually built parallel to the shoreline,500,389
+Cahore Point Pier,PIER,WEXFORD,LEINSTER,South-East,-6.19973343,52.56887921,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,390
+St. Helen's Pier,PIER,WEXFORD,LEINSTER,South-East,-6.32296759,52.2292628,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,387
+Rosslare Harbour,PIER,WEXFORD,LEINSTER,South-East,-6.3338981,52.25510298,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,388
+St. Kieran's Quay,QUAY,WEXFORD,LEINSTER,South-East,-6.81157938,52.2307425,Wharf usually built parallel to the shoreline,500,385
+Kilmore Quay,QUAY,WEXFORD,LEINSTER,South-East,-6.586507,52.17021394,Wharf usually built parallel to the shoreline,500,386
+TRACHT EACH,PIER,GALWAY,CONNAUGHT,WEST,-9.5340891,53.06779333,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,447
+Inisheer Slipway,SLIPWAY,GALWAY,CONNAUGHT,WEST,-9.52055113,53.06653883,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,448
+INISHMAAN,QUAY,GALWAY,CONNAUGHT,WEST,-9.57796248,53.10213504,Wharf usually built parallel to the shoreline,500,445
+INISHEER,PIER,GALWAY,CONNAUGHT,WEST,-9.52263065,53.06787251,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,446
+KILRONAN,PIER,GALWAY,CONNAUGHT,WEST,-9.66636173,53.11799041,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,443
+INISHMAAN,PIER,GALWAY,CONNAUGHT,WEST,-9.57803055,53.10022292,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,444
+Coonanna harbour,QUAY,KERRY,MUNSTER,South-West,-10.21297257,51.98913486,Wharf usually built parallel to the shoreline,500,441
+Cooncrome Harbour,PIER,KERRY,MUNSTER,South-West,-10.26565938,51.96566722,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,442
+Fahan Slipway,SLIPWAY,DONEGAL,ULSTER,North-West,-7.4759619,55.08756503,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,439
+Inch island,PIER,DONEGAL,ULSTER,North-West,-7.51221128,55.08366531,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,440
+Rathmullan Pier,PIER,DONEGAL,ULSTER,North-West,-7.52848825,55.09485338,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,437
+Fahan Pier,PIER,DONEGAL,ULSTER,North-West,-7.47686142,55.08722662,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,438
+Ardgroom Harbour,QUAY,CORK,MUNSTER,South,-9.87763681,51.742991,Wharf usually built parallel to the shoreline,500,435
+Buncranna Pier,PIER,DONEGAL,ULSTER,North-West,-7.46400545,55.12636137,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,436
+Coulagh Bay,QUAY,CORK,MUNSTER,South,-9.94650098,51.71492611,Wharf usually built parallel to the shoreline,500,433
+Ardgroom Harbour,QUAY,CORK,MUNSTER,South,-9.88016545,51.75516664,Wharf usually built parallel to the shoreline,500,434
+Travera Strand,QUAY,CORK,MUNSTER,South,-10.000961,51.67661976,Wharf usually built parallel to the shoreline,500,431
+Eyeries Quay,QUAY,CORK,MUNSTER,South,-9.96418787,51.69893318,Wharf usually built parallel to the shoreline,500,432
+Allihies Quay,QUAY,CORK,MUNSTER,South,-10.0612992,51.63236138,Wharf usually built parallel to the shoreline,500,429
+Travaud Strand,QUAY,CORK,MUNSTER,South,-10.0164936,51.6728147,Wharf usually built parallel to the shoreline,500,430
+Dunboy Quay,QUAY,CORK,MUNSTER,South,-9.92825434,51.63376604,Wharf usually built parallel to the shoreline,500,427
+Cahermore,QUAY,CORK,MUNSTER,South,-10.04465269,51.60285316,Wharf usually built parallel to the shoreline,500,428
+Dinish Island Quay,QUAY,CORK,MUNSTER,South,-9.90410989,51.64865991,Wharf usually built parallel to the shoreline,500,425
+Castletown Bearhaven,QUAY,CORK,MUNSTER,South,-9.90208432,51.65069074,Wharf usually built parallel to the shoreline,500,426
+Ardagh Point,PIER,CORK,MUNSTER,South,-9.82650616,51.64024551,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,423
+Rerrin Quay,QUAY,CORK,MUNSTER,South,-9.82404003,51.63366199,Wharf usually built parallel to the shoreline,500,424
+Creer's Quay,QUAY,LOUTH,LEINSTER,North-East,-6.2328542,54.07281381,Wharf usually built parallel to the shoreline,500,421
+Ballynakilla Pier,PIER,CORK,MUNSTER,South,-9.8610813,51.64215715,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,422
+Carlingford Pier,PIER,LOUTH,LEINSTER,North-East,-6.17994041,54.04252259,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,419
+Carlingford Quay,QUAY,LOUTH,LEINSTER,North-East,-6.17968712,54.04166279,Wharf usually built parallel to the shoreline,500,420
+Dundalk Quay,QUAY,LOUTH,LEINSTER,North-East,-6.37983663,54.00834883,Wharf usually built parallel to the shoreline,500,417
+Greenore Quay,QUAY,LOUTH,LEINSTER,North-East,-6.13066964,54.03423406,Wharf usually built parallel to the shoreline,500,418
+Baltimore Quay,QUAY,CORK,MUNSTER,South,-9.37360017,51.48338916,Wharf usually built parallel to the shoreline,500,351
+Baltimore Pier,PIER,CORK,MUNSTER,South,-9.37466259,51.48223503,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,352
+Castletownshend,QUAY,CORK,MUNSTER,South,-9.17249153,51.52727108,Wharf usually built parallel to the shoreline,500,349
+Castle Haven,QUAY,CORK,MUNSTER,South,-9.16665515,51.52807134,Wharf usually built parallel to the shoreline,500,350
+Leap Quay,QUAY,CORK,MUNSTER,South,-9.14204425,51.57586266,Wharf usually built parallel to the shoreline,500,347
+Castletownshend,SLIPWAY,CORK,MUNSTER,South,-9.17188334,51.52853296,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,348
+Glandore Quay,QUAY,CORK,MUNSTER,South,-9.12044307,51.56545371,Wharf usually built parallel to the shoreline,500,345
+Glandore Quay,QUAY,CORK,MUNSTER,South,-9.1312669,51.55872839,Wharf usually built parallel to the shoreline,500,346
+Ross Carberry Slip,SLIPWAY,CORK,MUNSTER,South,-9.02646274,51.57721589,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,343
+Ross Carberry Quay,QUAY,CORK,MUNSTER,South,-9.01182166,51.56147448,Wharf usually built parallel to the shoreline,500,344
+Courtmacsherry Bay,QUAY,CORK,MUNSTER,South,-8.71669923,51.63967825,Wharf usually built parallel to the shoreline,500,341
+Ahidelake Quay,QUAY,CORK,MUNSTER,South,-8.84734267,51.6057589,Wharf usually built parallel to the shoreline,500,342
+Cobh East Quay,QUAY,CORK,MUNSTER,South,-8.27957552,51.85067163,Wharf usually built parallel to the shoreline,500,339
+Kinure Slipway,SLIPWAY,CORK,MUNSTER,South,-8.44192319,51.69354601,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,340
+Spike Island,PIER,CORK,MUNSTER,South,-8.28944862,51.83641551,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,337
+Cobh Centre Quay,QUAY,CORK,MUNSTER,South,-8.29948584,51.84784289,Wharf usually built parallel to the shoreline,500,338
+Ballybrickan Pier,PIER,CORK,MUNSTER,South,-8.33011212,51.83780948,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,335
+Haulbowline Quay,QUAY,CORK,MUNSTER,South,-8.30124771,51.84283487,Wharf usually built parallel to the shoreline,500,336
+Cobh Slip,SLIPWAY,CORK,MUNSTER,South,-8.32579189,51.86094891,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,333
+Cobh Pier,PIER,CORK,MUNSTER,South,-8.32523752,51.84632906,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,334
+Harty's Quay,QUAY,CORK,MUNSTER,South,-8.39393996,51.87849731,Wharf usually built parallel to the shoreline,500,331
+Glenbrook Slip,SLIPWAY,CORK,MUNSTER,South,-8.33116701,51.85926607,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,332
+Ballynacorra Quay,QUAY,CORK,MUNSTER,South,-8.170337,51.90147131,Wharf usually built parallel to the shoreline,500,329
+Cork City Quay,QUAY,CORK,MUNSTER,South,-8.4563727,51.89881955,Wharf usually built parallel to the shoreline,500,330
+Walterstown Quay,QUAY,CORK,MUNSTER,South,-8.21304329,51.8671001,Wharf usually built parallel to the shoreline,500,327
+Ballynacorra Quay,QUAY,CORK,MUNSTER,South,-8.16961091,51.89958216,Wharf usually built parallel to the shoreline,500,328
+Foynes Pier,PIER,LIMERICK,MUNSTER,Mid-West,-9.1023746,52.61322865,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,325
+Carrowbane Quay,QUAY,LIMERICK,MUNSTER,Mid-West,-9.22247389,52.59322989,Wharf usually built parallel to the shoreline,500,326
+Foynes Slip,SLIPWAY,LIMERICK,MUNSTER,Mid-West,-9.11293286,52.61435464,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,323
+Foynes Quay,QUAY,LIMERICK,MUNSTER,Mid-West,-9.10860944,52.61312964,Wharf usually built parallel to the shoreline,500,324
+Knockegan Quay,QUAY,LIMERICK,MUNSTER,Mid-West,-8.98768014,52.61881276,Wharf usually built parallel to the shoreline,500,321
+Moig South Quay,QUAY,LIMERICK,MUNSTER,Mid-West,-8.9790917,52.61267885,Wharf usually built parallel to the shoreline,500,322
+Fethard Quay,QUAY,WEXFORD,LEINSTER,South-East,-6.82226607,52.19220927,Wharf usually built parallel to the shoreline,500,383
+Bannow Bay New Quay,QUAY,WEXFORD,LEINSTER,South-East,-6.78514955,52.22847576,Wharf usually built parallel to the shoreline,500,384
+Slade Quay,QUAY,WEXFORD,LEINSTER,South-East,-6.90849025,52.13373662,Wharf usually built parallel to the shoreline,500,381
+Fethard Slip,SLIPWAY,WEXFORD,LEINSTER,South-East,-6.82160406,52.19265927,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,382
+Arthurstown Quay,QUAY,WEXFORD,LEINSTER,South-East,-6.95284326,52.2396713,Wharf usually built parallel to the shoreline,500,379
+Duncannon Pier,PIER,WEXFORD,LEINSTER,South-East,-6.93672346,52.22171976,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,380
+Ballyhack Quay,QUAY,WEXFORD,LEINSTER,South-East,-6.96787789,52.2448263,Wharf usually built parallel to the shoreline,500,377
+Ballyhack Slip,SLIPWAY,WEXFORD,LEINSTER,South-East,-6.96814149,52.24465228,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,378
+Gorteens Quay,QUAY,KILKENNY,LEINSTER,South-East,-7.03662872,52.26062543,Wharf usually built parallel to the shoreline,500,375
+Greatisland Quay,QUAY,WEXFORD,LEINSTER,South-East,-6.99765982,52.28097062,Wharf usually built parallel to the shoreline,500,376
+Little Island,SLIPWAY,WATERFORD,MUNSTER,South-East,-7.06302339,52.24839564,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,373
+Waterford Quay,QUAY,WATERFORD,MUNSTER,South-East,-7.10998336,52.26228559,Wharf usually built parallel to the shoreline,500,374
+Trawnahaha Quay,QUAY,CORK,MUNSTER,South,-9.48989971,51.68798282,Wharf usually built parallel to the shoreline,500,371
+Ballynakill Slip,SLIPWAY,WATERFORD,MUNSTER,South-East,-7.06425965,52.24709274,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,372
+Bantry Harbour Pier,PIER,CORK,MUNSTER,South,-9.46107909,51.67995377,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,369
+Bantry Pier,PIER,CORK,MUNSTER,South,-9.46038886,51.68133233,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,370
+Derryleary Quay,QUAY,CORK,MUNSTER,South,-9.61915122,51.49818021,Wharf usually built parallel to the shoreline,500,367
+Kilcrohane Quay,QUAY,CORK,MUNSTER,South,-9.69578287,51.57421899,Wharf usually built parallel to the shoreline,500,368
+Goleen Quay,QUAY,CORK,MUNSTER,South,-9.70865052,51.49468395,Wharf usually built parallel to the shoreline,500,365
+Crook Haven Quay,QUAY,CORK,MUNSTER,South,-9.72991667,51.47182328,Wharf usually built parallel to the shoreline,500,366
+Schull Quay,QUAY,CORK,MUNSTER,South,-9.54302061,51.52415249,Wharf usually built parallel to the shoreline,500,363
+Colla Quay,QUAY,CORK,MUNSTER,South,-9.56005594,51.5058314,Wharf usually built parallel to the shoreline,500,364
+Coosheen Quay,QUAY,CORK,MUNSTER,South,-9.49835438,51.52107819,Wharf usually built parallel to the shoreline,500,361
+Schull Slip,SLIPWAY,CORK,MUNSTER,South,-9.54331238,51.5246624,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,362
+Rossbrin Slip,SLIPWAY,CORK,MUNSTER,South,-9.47647803,51.52934733,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,359
+Rossbrin Quay,QUAY,CORK,MUNSTER,South,-9.47412529,51.5301761,Wharf usually built parallel to the shoreline,500,360
+Oldcourt Quay,QUAY,CORK,MUNSTER,South,-9.31903853,51.53476243,Wharf usually built parallel to the shoreline,500,357
+Rincolisky Harbour,SLIPWAY,CORK,MUNSTER,South,-9.42406905,51.50396518,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,358
+Turkhead Quay,QUAY,CORK,MUNSTER,South,-9.40684257,51.49703764,Wharf usually built parallel to the shoreline,500,355
+Glebe Quay,QUAY,CORK,MUNSTER,South,-9.36793526,51.5262679,Wharf usually built parallel to the shoreline,500,356
+Sherkin Pier,PIER,CORK,MUNSTER,South,-9.39789309,51.47653744,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,353
+Sherkin Quay,QUAY,CORK,MUNSTER,South,-9.40653509,51.49002003,Wharf usually built parallel to the shoreline,500,354
+Kilbeg Pier,PIER,DONEGAL,ULSTER,North-West,-8.62524302,54.62625501,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,287
+Teelin Bay,PIER,DONEGAL,ULSTER,North-West,-8.63061709,54.62405921,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,288
+Roelough  Pier,PIER,DONEGAL,ULSTER,North-West,-8.55758331,54.61831309,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,285
+Tawny Pier,PIER,DONEGAL,ULSTER,North-West,-8.60610866,54.62230168,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,286
+Killybegs,PIER,DONEGAL,ULSTER,North-West,-8.44241555,54.63191019,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,283
+Fintragh Bay,SLIPWAY,DONEGAL,ULSTER,North-West,-8.47646287,54.62533434,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,284
+Carntullagh,SLIPWAY,DONEGAL,ULSTER,North-West,-8.4303492,54.62539289,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,281
+Killybegs,PIER,DONEGAL,ULSTER,North-West,-8.44291963,54.63304935,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,282
+Cassan Sound Slip,SLIPWAY,DONEGAL,ULSTER,North-West,-8.42894415,54.58529141,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,279
+Bruckless Harbour,PIER,DONEGAL,ULSTER,North-West,-8.38724621,54.63187095,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,280
+Port Pier,PIER,DONEGAL,ULSTER,North-West,-8.30929844,54.63660204,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,277
+Ballyederlan Pier,PIER,DONEGAL,ULSTER,North-West,-8.37714543,54.60303542,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,278
+Mountcharles,PIER,DONEGAL,ULSTER,North-West,-8.20432392,54.62986454,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,275
+Inver Pier,PIER,DONEGAL,ULSTER,North-West,-8.3004617,54.63862103,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,276
+Doengal Town Pier,PIER,DONEGAL,ULSTER,North-West,-8.11133204,54.65273699,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,273
+Jack's Quay,QUAY,DONEGAL,ULSTER,North-West,-8.188436,54.63901826,Wharf usually built parallel to the shoreline,500,274
+Inishnabo Pier,PIER,DONEGAL,ULSTER,North-West,-8.13337178,54.60529764,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,271
+Bunatrahan Pier,PIER,DONEGAL,ULSTER,North-West,-8.25470459,54.5301972,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,272
+Mullaghmore Pier,PIER,SLIGO,CONNAUGHT,North-West,-8.44657276,54.46620502,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,269
+Bundoran Pier,PIER,DONEGAL,ULSTER,North-West,-8.29212293,54.47869761,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,270
+Sligo Quay,QUAY,SLIGO,CONNAUGHT,North-West,-8.49010903,54.28164174,Wharf usually built parallel to the shoreline,500,267
+Raghly Point Pier,PIER,SLIGO,CONNAUGHT,North-West,-8.64189529,54.32366276,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,268
+Donaghintraine Pier,PIER,SLIGO,CONNAUGHT,North-West,-8.84386728,54.25791456,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,265
+Rosses Point Pier,PIER,SLIGO,CONNAUGHT,North-West,-8.56784258,54.30452167,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,266
+Easky Pier,PIER,SLIGO,CONNAUGHT,North-West,-8.95550991,54.29140034,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,263
+Pollachurry Pier,PIER,SLIGO,CONNAUGHT,North-West,-8.75506676,54.27265297,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,264
+Inishcrone Pier,PIER,SLIGO,CONNAUGHT,North-West,-9.09654186,54.22009713,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,261
+Cabraghkeel Slip,SLIPWAY,SLIGO,CONNAUGHT,North-West,-9.06076925,54.26829713,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,262
+Inishshark Island,QUAY,MAYO,CONNAUGHT,West,-10.26562301,53.60463839,Wharf usually built parallel to the shoreline,500,259
+Inishcrone Slip,SLIPWAY,SLIGO,CONNAUGHT,North-West,-9.09789618,54.22015129,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,260
+Inishbofin Island,PIER,MAYO,CONNAUGHT,West,-10.21180815,53.61283852,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,257
+Inishbofin Island,QUAY,MAYO,CONNAUGHT,West,-10.20618088,53.61287121,Wharf usually built parallel to the shoreline,500,258
+Beagh Quay,QUAY,LIMERICK,MUNSTER,Mid-West,-8.93833061,52.65730215,Wharf usually built parallel to the shoreline,500,319
+Beagh Slip,SLIPWAY,LIMERICK,MUNSTER,Mid-West,-8.94853866,52.66056839,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,320
+Annagassan Slip,SLIPWAY,LOUTH,LEINSTER,North-East,-6.29909154,53.87758401,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,317
+Ringmoylan Quay,QUAY,LIMERICK,MUNSTER,Mid-West,-8.87794641,52.66919533,Wharf usually built parallel to the shoreline,500,318
+Giles Quay,QUAY,LOUTH,LEINSTER,North-East,-6.23863351,53.98439274,Wharf usually built parallel to the shoreline,500,315
+Annagassan Quay,QUAY,LOUTH,LEINSTER,North-East,-6.34421947,53.88420686,Wharf usually built parallel to the shoreline,500,316
+Lenan Head,PIER,DONEGAL,ULSTER,North-West,-7.52779841,55.2425343,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,313
+Omeath Pier,PIER,LOUTH,LEINSTER,North-East,-6.25535751,54.08917708,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,314
+Meenlaragh,PIER,DONEGAL,ULSTER,North-West,-8.17311477,55.14714026,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,311
+Croaghcross,PIER,DONEGAL,ULSTER,North-West,-7.61799246,55.20836229,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,312
+Derrybeg Pier,PIER,DONEGAL,ULSTER,North-West,-8.32449173,55.08642592,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,309
+Bunbeg Pier,PIER,DONEGAL,ULSTER,North-West,-8.31104088,55.05759583,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,310
+Cruit Island Slip,SLIPWAY,DONEGAL,ULSTER,North-West,-8.43039983,55.04793718,Structure consisting of a sloping way down to the water from the place where ships are built or repaired,500,307
+Kincaslough Quay,QUAY,DONEGAL,ULSTER,North-West,-8.40325727,55.03533902,Wharf usually built parallel to the shoreline,500,308
+Aranmore Island,QUAY,DONEGAL,ULSTER,North-West,-8.49603262,55.0003175,Wharf usually built parallel to the shoreline,500,305
+Aranmore Island,PIER,DONEGAL,ULSTER,North-West,-8.49657635,54.99284677,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,306
+Rannagh,PIER,DONEGAL,ULSTER,North-West,-8.52109251,54.97101759,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,303
+Rannagh,PIER,DONEGAL,ULSTER,North-West,-8.51943884,54.96951006,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,304
+Rutland Island,QUAY,DONEGAL,ULSTER,North-West,-8.4557381,54.98026314,Wharf usually built parallel to the shoreline,500,301
+Leagbarrow,PIER,DONEGAL,ULSTER,North-West,-8.49607451,54.98898399,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,302
+Burtonport Quay,QUAY,DONEGAL,ULSTER,North-West,-8.43830179,54.9885269,Wharf usually built parallel to the shoreline,500,299
+Burtonport Pier,PIER,DONEGAL,ULSTER,North-West,-8.44187627,54.98318679,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,300
+Falchorrib Pier,PIER,DONEGAL,ULSTER,North-West,-8.40320027,54.89369857,"A platform built out from the shore into the water and supported by piles, provides access to ships and boats",500,297
