@@ -96,7 +96,7 @@ ui <- dashboardPage(
               ),
       tabItem(tabName = "map",
               h3("Model Output (Note: locations are interpolated)"),
-              leafletOutput("map", height='90vh')#title specifying that these are interpolated locations
+              leafletOutput("map", height='90vh')
               ),
       tabItem(tabName = "modelling",
               tags$b("Model Details"),
@@ -112,11 +112,7 @@ Without validation data the model cannot identify with 100% certainty the fishin
               hr(),
               h4("Model output data summary"),
               verbatimTextOutput("Assumptions"),
-              hr()#,
-              #selectInput("vessel.selector",label =h4("Select a vessel to view it's tracks"),
-                          #choices = list ("Chrysalis W248","Fiona Yvonne","Georgie Girl T140","Kate D","Lagosta C147","Pathfinder 2 WD317",
-                                      #    "Rylenna C WD243","Sarah Jane","Uisce beatha"), selected = NULL),
-              #imageOutput("vessel.tracks",  height = "50%")
+              hr()
               )
       )
   )
@@ -236,20 +232,6 @@ server <- function(input, output, session) {
              yaxis = list(title = "Fishing Activity (Hours)"),
              barmode = 'stack')
   )
-  output$ev1 <- renderPlotly(
-    fishing_filtered2()  %>% 
-      mutate(Day = as.Date(Date, format = "%Y-%m-%d")) %>% 
-      mutate(DistanceKm = Distance/1000) %>% 
-      group_by(ID_trip_anon, ID_anon, Day) %>%
-      summarise(Sum_dist=sum(DistanceKm)) %>%
-      plot_ly(x = ~ID_trip_anon, y = ~Sum_dist ,  type="bar") %>% #color = ~ID,
-      layout(title = "Total Fishing Activity per trip in Kilometers (Km)",
-             xaxis = list(title = "Fishing Trip - in date order by vessel",
-                          categoryorder = "array",
-                          categoryarray = ~Day),
-             yaxis = list(title = "Trip distance (Km)"))
-  )
-  
 output$heat1 <- renderPlot(
   calendarHeat(dates = fishing_filtered2()$Date,
                values = fishing_filtered2()$Distance, 
@@ -352,11 +334,7 @@ output$heat1 <- renderPlot(
                        overlayGroups = c("Fishing","Mix Transit","Transit","InshoreGrid","Landing Sites"),
                        options = layersControlOptions(collapsed = FALSE))
   })
-  output$vessel.tracks <- renderImage({
-    image_file <- paste0("www/Vessel_tracks/AllTrips_Vessel_", 
-                         input$vessel.selector, "_ping1min.jpg") 
-    return(list(src = image_file, filetype = "image/jpg", width="1500px"))
-  }, deleteFile = FALSE)
+
 
   
 }
