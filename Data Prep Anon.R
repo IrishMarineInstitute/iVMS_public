@@ -1,10 +1,10 @@
 library(tidyverse)
 library(data.table)
 library(geosphere)
-setwd("C:/Users/Rebecca Sanfey/Desktop/MI/iVMS/Final_anon")
+
 
 ##--------Annonamise data ----##
-model_output <- read.csv("C:/Users/Rebecca Sanfey/Desktop/MI/iVMS/additional_modelling/Results/FPO_vms_resultClassificationv1.2.csv")
+model_output <- read.csv("FPO_vms_resultClassificationv1.2.csv")
 model_output <- transform (model_output, id_num = as.numeric((factor(ID))))
 model_output <- mutate(model_output, ID_anon = paste("Vessel",model_output$id_num, sep="_"))
 model_output <- transform (model_output, trip_id_num = as.numeric((factor(ID_trip))))
@@ -34,7 +34,6 @@ preppeddata <- mutate(preppeddata,
                       Duration = difftime(Date,
                                           lag(Date))) #duration in min
 preppeddata$Duration[1] <- 0 
-#preppeddata_long <- filter(preppeddata, Duration>40000)
 preppeddata <- filter(preppeddata, Duration < 40000)
 
 #  ----------------------------------------------------------------
@@ -69,8 +68,6 @@ fishing_events_new <-  as.data.frame(fishing_events)
 fishing_events <- select(fishing_events_new, -geometry)
 
 saveRDS(fishing_events,file="Fishing_Anon.rds")
-#saveRDS(fishing_events_new,file="Data/Fishing_with_geometry_Anon.rds")
-saveRDS(preppeddata,file="Additional_modelled_data_prepped_Anon.rds")
 
 
 #####---- Mapping prep ----#####
@@ -82,7 +79,7 @@ levels(mapdata$Activity_classification)
 fishing <- filter(preppeddata,Activity_classification == "FISHING")
 mix_transit <-  filter(preppeddata,Activity_classification == "MIX_TRANSIT")
 transit <-  filter(preppeddata,Activity_classification == "TRANSIT")
-landing_sites <- read.csv("C:/Users/Rebecca Sanfey/Desktop/MI/iVMS/From Sophie/FPO_classification_function_v2/all_harbours_loc_v1.2.csv")
+landing_sites <- read.csv("all_harbours_loc_v1.2.csv")
 
 saveRDS(fishing,file="map_fishing.rds")
 saveRDS(mix_transit,file="map_mixtransit.rds")

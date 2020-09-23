@@ -16,7 +16,7 @@ inshore_grid <- readRDS("Inshore_Grid.rds")  #from inshore team
 map_fishing <- readRDS("map_fishing.rds")  #created in data prep
 map_mix_transit <- readRDS("map_mixtransit.rds")   #created in data prep
 map_transit <- readRDS("map_transit.rds")  #created in data prep
-landing_sites <- readRDS("landing_sites.rds")  #from Sophie
+landing_sites <- readRDS("landing_sites.rds")  #from model output/Sophie
 source_url("https://raw.githubusercontent.com/iascchen/VisHealth/master/R/calendarHeat.R")
 #source(App_with_anonymised_data/calendarHeat.R', echo=TRUE)
 
