@@ -29,12 +29,12 @@ preppeddata$Distance[1] <- 0
 
 # Duration ----------------------------------------------------------------
 preppeddata$Duration <- NA
-preppeddata$Date <-  as.character(preppeddata$Date)
 preppeddata <- mutate(preppeddata, 
                       Duration = difftime(Date,
                                           lag(Date))) #duration in min
 preppeddata$Duration[1] <- 0 
 preppeddata <- filter(preppeddata, Duration < 40000)
+preppeddata$Date <- as.character(preppeddata$Date)
 
 #  ----------------------------------------------------------------
 
