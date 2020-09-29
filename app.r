@@ -41,7 +41,7 @@ ui <- dashboardPage(
                   column(3,dateRangeInput("dateselector", "Date", start=min(fishing_events$Date),
                                           end = max(fishing_events$Date), separator = " to ")),
                   column(3,selectInput("vesselselector", "Vessels", choices=c(levels(as.factor(fishing_events$ID_anon))),
-                                       selected = NULL, multiple=T)), #c("PRUE ESTHER","UISCE BEATHA")
+                                       selected = NULL, multiple=T)),
                   column(3,selectInput("location","ICES Area.Rectangle", choices= c(levels(fishing_events$Area_Rect)),
                                        multiple=T, selectize=T)), 
                   column(3,selectInput("gridsquare","Inshore Grid Square", choices= c(levels(as.factor(fishing_events$InshoreGrid_SQ))),
@@ -224,7 +224,7 @@ server <- function(input, output, session) {
     fishing_filtered2() %>%
       mutate(Day = as.Date(Date, format = "%Y-%m-%d")) %>% 
       group_by(Day,ID_anon) %>%
-      summarise(Sum_Dur = (sum(Duration))/60) %>%
+      summarise(Sum_Dur = sum(Duration)/60) %>%
       arrange(Day) %>%
       plot_ly(x = ~Day, y = ~Sum_Dur, color = ~ID_anon,type="bar") %>% 
       layout(title = "Fishing Activity (Hours) by Day",
