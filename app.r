@@ -1,12 +1,13 @@
 library(shiny)
+library(leaflet)
+library(leaflet.extras2)
+library(dplyr)
+library(ggplot2)
+library(devtools)
 library(shinydashboard)
 library(shinyWidgets)
 library(plotly)
-library(leaflet)
-library(dplyr)
-library(leaflet.extras2)
-library(ggplot2)
-library(devtools)
+
 
 model_output <- readRDS("Model_output_Anonymised.rds") #created in data prep
 fishing_events <- readRDS("Fishing_Anon.rds")  #created in data prep
